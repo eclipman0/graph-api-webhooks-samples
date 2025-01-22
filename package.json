@@ -2,7 +2,7 @@
   "name": "graph-api-webhooks-samples",
   "version": "0.1.1",
   "description": "Graph API Webhooks Sample",
-  "main": "heroku/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node heroku/index.js"
   },
